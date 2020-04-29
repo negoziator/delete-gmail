@@ -1,6 +1,5 @@
-** Gmail deleter **
+**Gmail Deleter**
 
-Delete mails that are older than X
+Delete mails that are older than x days
 
-** Installtion **
-
+**Installation**
